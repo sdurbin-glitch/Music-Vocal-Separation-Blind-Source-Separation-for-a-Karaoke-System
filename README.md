@@ -20,7 +20,7 @@ Our goal is to isolate:
 *   $v(t)$ : The vocal track
 *   $a(t)$ : The accompaniment track
 
-This blind source separation (BSS) task is fundamentally underdetermined, as infinitely many pairs of $(v, a)$ can sum to the identical mixture. For practical karaoke applications, the primary challenge lies in a performance trade-off: residual vocal leakage makes the accompaniment difficult to use, whereas overly aggressive suppression artifactually damages overlapping instrumental frequencies.
+This blind source separation task is fundamentally underdetermined, as infinitely many pairs of $(v, a)$ can sum to the identical mixture. For practical karaoke applications, the primary challenge lies in a performance trade-off: residual vocal leakage makes the accompaniment difficult to use, whereas overly aggressive suppression artifactually damages overlapping instrumental frequencies.
 
 ---
 
