@@ -27,17 +27,15 @@ This blind source separation task is fundamentally underdetermined, as infinitel
 ## Approach
 
 ### Baselines
-*   **Unsupervised NMF:** Our primary baseline. Non-negative Matrix Factorization is chosen because it models the spectral structure of music directly and bypasses the strict mixing assumptions required by Independent Component Analysis (ICA). It factorizes a magnitude spectrogram into spectral bases and their corresponding time-varying activations.
-*   **ICA:** Independent Component Analysis will serve as a secondary baseline to evaluate where its assumptions of linear mixing and statistical independence fail on real-world musical mixtures.
-*   **Structural Baselines:** We will also include alternative methods such as REPET and Robust PCA—which assume repeating or low-rank structures in the accompaniment—in our performance comparisons.
+Our baseline will be unsupervised NMF, this is because it models the spectral structure of music directly and it does not rely on the mixing assumptions which ICA depends on.
+We discovered that NMF factorizes the magnitude spectrogram into spectral bases and their activations over time, and rebuilds the vocals and accompaniment by grouping components and applying soft masks.
+We will also run ICA as a secondary baseline, in order to see where its assumptions of linear mixing and statistically independent sources will still break down on real music.
+Other approaches, such as REPET and robust PCA, which assume a repeating or low-rank accompaniment, will also be included in our comparisons.
 
 ### Main Method: Supervised NMF with $L_1$ Regularization
-Our core approach leverages supervised NMF utilizing a separate, pre-trained spectral dictionary for each underlying source.
+Our main method will then be the supervised NMF with a separate spectral dictionary for each source.These two dictionaries are from isolated vocal and accompaniment stems, and we can give each dictionary component a known source label. We will compute magnitude spectrograms of the vocal and accompaniment stems and use NMF to learn one non-negative dictionary for each stem in training. At separation time, we will concatenate the two dictionaries and will keep them fixed, estimate the activations from the mixture alone, and combine each dictionary with its own activations to get a magnitude estimate for each source. These estimates then define Wiener-style soft masks, which we apply to the complex STFT of the mixture; we will keep the mixture phase and use an inverse STFT to reconstruct the vocals and accompaniment.
 
-1.  **Training:** We compute magnitude spectrograms of isolated vocal and accompaniment stems to learn a distinct, non-negative dictionary for each source.
-2.  **Separation:** At separation time, these two dictionaries are concatenated and held fixed. We estimate the activation matrices from the mixture signal alone. 
-3.  **Masking:** Combined dictionary-activation magnitude estimates define Wiener-style soft masks, which are applied to the complex Short-Time Fourier Transform (STFT) of the mixture. We retain the original mixture phase and apply the inverse STFT (iSTFT) to reconstruct time-domain tracks.
-4.  **Sparsity Constraints:** Motivated by sparse representation theory, we incorporate an $L_1$ regularization penalty on the activation matrices. Because these pre-trained dictionaries span a wide array of spectral profiles, a single audio frame should theoretically require only a few basis vectors; the penalty encourages the model to explain frames using a sparse subset of atoms.
+Besides, motivated by sparse representation, we also examine an L1 penalty on the activations. These dictionaries will cover many sounds before the regulation, a single frame typically needs only a few of them, and the penalty encourages the model to explain the frames with fewer atoms.
 
 ### Research Focus
 1.  Will supervised NMF (incorporating distinct vocal and accompaniment dictionaries with $L_1$ regularization) yield superior separation performance compared to unsupervised NMF and ICA baselines?
