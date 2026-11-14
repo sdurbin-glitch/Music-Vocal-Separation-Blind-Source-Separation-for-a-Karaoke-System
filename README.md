@@ -72,6 +72,6 @@ We utilize the **MUSDB18-HQ** dataset, featuring 150 full-length tracks provided
 
 ---
 
-## 📑 References
+## References
 
 *   Rafii, Z., Liutkus, A., Stöter, F.-R., Mimilakis, S. I., & Bittner, R. (2019). *MUSDB18-HQ -- an uncompressed version of MUSDB18*. Zenodo. [https://doi.org](https://doi.org)
