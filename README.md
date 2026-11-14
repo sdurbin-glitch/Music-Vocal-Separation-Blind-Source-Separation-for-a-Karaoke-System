@@ -29,7 +29,7 @@ This blind source separation (BSS) task is fundamentally underdetermined, as inf
 ### Baselines
 *   **Unsupervised NMF:** Our primary baseline. Non-negative Matrix Factorization is chosen because it models the spectral structure of music directly and bypasses the strict mixing assumptions required by Independent Component Analysis (ICA). It factorizes a magnitude spectrogram into spectral bases and their corresponding time-varying activations.
 *   **ICA:** Independent Component Analysis will serve as a secondary baseline to evaluate where its assumptions of linear mixing and statistical independence fail on real-world musical mixtures.
-*   **Structural Baselines:** We will also include alternative methods such as **REPET** and **Robust PCA (RPCA)**—which assume repeating or low-rank structures in the accompaniment—in our performance comparisons.
+*   **Structural Baselines:** We will also include alternative methods such as REPET and Robust PCA—which assume repeating or low-rank structures in the accompaniment—in our performance comparisons.
 
 ### Main Method: Supervised NMF with $L_1$ Regularization
 Our core approach leverages supervised NMF utilizing a separate, pre-trained spectral dictionary for each underlying source.
@@ -37,7 +37,7 @@ Our core approach leverages supervised NMF utilizing a separate, pre-trained spe
 1.  **Training:** We compute magnitude spectrograms of isolated vocal and accompaniment stems to learn a distinct, non-negative dictionary for each source.
 2.  **Separation:** At separation time, these two dictionaries are concatenated and held fixed. We estimate the activation matrices from the mixture signal alone. 
 3.  **Masking:** Combined dictionary-activation magnitude estimates define Wiener-style soft masks, which are applied to the complex Short-Time Fourier Transform (STFT) of the mixture. We retain the original mixture phase and apply the inverse STFT (iSTFT) to reconstruct time-domain tracks.
-4.  **Sparsity Constraints:** Motivated by sparse representation theory, we incorporate an **$L_1$ regularization penalty** on the activation matrices. Because these pre-trained dictionaries span a wide array of spectral profiles, a single audio frame should theoretically require only a few basis vectors; the penalty encourages the model to explain frames using a sparse subset of atoms.
+4.  **Sparsity Constraints:** Motivated by sparse representation theory, we incorporate an $L_1$ regularization penalty on the activation matrices. Because these pre-trained dictionaries span a wide array of spectral profiles, a single audio frame should theoretically require only a few basis vectors; the penalty encourages the model to explain frames using a sparse subset of atoms.
 
 ### Research Focus
 1.  Will supervised NMF (incorporating distinct vocal and accompaniment dictionaries with $L_1$ regularization) yield superior separation performance compared to unsupervised NMF and ICA baselines?
