@@ -1,0 +1,600 @@
+Skelpolu - Together Alone
+SDR_median=array([-55.84074987,   3.87764723])
+SIR_median=array([-52.38500125,  36.86729635])
+SAR_median=array([-1.02377517,  4.52646451])
+Jokers, Jacks & Kings - Sea Of Leaves
+SDR_median=array([-2.8921549 , -4.97317311])
+SIR_median=array([-2.89534547,  6.08467465])
+SAR_median=array([28.2525193 , -4.17192999])
+Leaf - Come Around
+SDR_median=array([-8.99385293, -8.34300439])
+SIR_median=array([-9.00119324, 17.51048645])
+SAR_median=array([39.46340941, -8.20500712])
+Young Griffo - Pennies
+SDR_median=array([-15.97634475,   4.47726025])
+SIR_median=array([-6.27942151,  5.63316737])
+SAR_median=array([-8.50033283, 11.80224264])
+Music Delta - Punk
+SDR_median=array([-10.79492826,  -1.0757596 ])
+SIR_median=array([-6.99307914,  2.24096457])
+SAR_median=array([-0.38646901,  3.55380135])
+Atlantis Bound - It Was My Fault For Waiting
+SDR_median=array([-22.20972641,   4.93736907])
+SIR_median=array([-10.74748926,   5.10503434])
+SAR_median=array([-10.28659799,  23.22767602])
+Port St Willow - Stay Even
+SDR_median=array([-8.06916806, -9.87683481])
+SIR_median=array([-8.07619417, 20.44118161])
+SAR_median=array([44.5157572 , -9.78757297])
+Secret Mountains - High Horse
+SDR_median=array([-16.42086517, -14.32903435])
+SIR_median=array([-16.40475279,  19.65130726])
+SAR_median=array([ 30.53263438, -14.00672648])
+Music Delta - Gospel
+SDR_median=array([ 0.43811221, -8.31726411])
+SIR_median=array([0.87837772, 3.62432264])
+SAR_median=array([13.47908751, -6.72406295])
+Meaxic - Take A Step
+SDR_median=array([-19.77812848,   9.82861593])
+SIR_median=array([0.87007904, 9.84309077])
+SAR_median=array([-16.69361047,  35.26884211])
+James May - All Souls Moon
+SDR_median=array([-11.97907397,   2.37124542])
+SIR_median=array([-0.72515527,  3.02809797])
+SAR_median=array([-6.83265964, 14.5821677 ])
+Fergessen - The Wind
+SDR_median=array([-2.44457667, -6.20412148])
+SIR_median=array([-2.20748351, 25.15678327])
+SAR_median=array([14.76054995, -6.21072434])
+The Districts - Vermont
+SDR_median=array([-14.35531294,   0.69158314])
+SIR_median=array([-1.7995025 ,  0.73122567])
+SAR_median=array([-8.74678469, 23.70365945])
+Hezekiah Jones - Borrowed Heart
+SDR_median=array([-8.56761895,  1.72959205])
+SIR_median=array([-2.91468938,  6.52434354])
+SAR_median=array([-2.48821916,  4.67514598])
+Creepoid - OldTree
+SDR_median=array([-16.96500961,   8.81104073])
+SIR_median=array([-7.66461502, 13.48900999])
+SAR_median=array([-7.26401309, 13.12007921])
+Patrick Talbot - Set Me Free
+SDR_median=array([-4.57391706, -1.64480568])
+SIR_median=array([ 0.8903878, -0.6878299])
+SAR_median=array([-0.21888496, 10.15547203])
+Night Panther - Fire
+SDR_median=array([-4.46292124, -1.77858571])
+SIR_median=array([0.41633369, 2.33457544])
+SAR_median=array([0.23139504, 2.26628701])
+Traffic Experiment - Once More (With Feeling)
+SDR_median=array([-9.42073157, -2.43487292])
+SIR_median=array([-7.76772388,  6.29372555])
+SAR_median=array([ 4.83589747, -0.88923228])
+Dreamers Of The Ghetto - Heavy Love
+SDR_median=array([-9.66417075,  3.0797474 ])
+SIR_median=array([-4.35811665,  9.61097394])
+SAR_median=array([-2.38975785,  5.10932927])
+Grants - PunchDrunk
+SDR_median=array([-7.33685132, -0.49290687])
+SIR_median=array([-7.33390563, 19.52349166])
+SAR_median=array([47.88224777, -0.39837959])
+James May - On The Line
+SDR_median=array([-7.09692624, -2.43471109])
+SIR_median=array([-7.03719371,  9.03823959])
+SAR_median=array([18.49734679, -1.42501844])
+Young Griffo - Facade
+SDR_median=array([-4.1961101 ,  0.06129907])
+SIR_median=array([-4.19416612,  8.58680876])
+SAR_median=array([34.81910982,  1.9772779 ])
+Angela Thomas Wade - Milk Cow Blues
+SDR_median=array([ -1.35181606, -14.15628078])
+SIR_median=array([-1.30090607, 10.73474819])
+SAR_median=array([ 31.38787162, -13.75709087])
+Leaf - Wicked
+SDR_median=array([-11.69246214,   2.15593181])
+SIR_median=array([-9.07641127,  7.12636259])
+SAR_median=array([-0.2210644 ,  5.00928532])
+A Classic Education - NightOwl
+SDR_median=array([-21.86398349,   9.58575135])
+SIR_median=array([-10.83556465,  10.61603308])
+SAR_median=array([-9.94107542, 17.81672942])
+Actions - One Minute Smile
+SDR_median=array([ -2.41604479, -14.18415166])
+SIR_median=array([-2.41490575, -4.15048637])
+SAR_median=array([30.89276999, -8.40656348])
+Remember December - C U Next Time
+SDR_median=array([-14.54749492,   3.24342285])
+SIR_median=array([-3.32000462,  4.31555243])
+SAR_median=array([-9.09180592, 11.06039472])
+Phre The Eon - Everybody's Falling Apart
+SDR_median=array([-23.83657477,   6.77140075])
+SIR_median=array([-11.54696337,   6.77127749])
+SAR_median=array([-11.41018138,  67.81820524])
+Cnoc An Tursa - Bannockburn
+SDR_median=array([ -6.28335574, -12.49831705])
+SIR_median=array([-6.28724034,  2.73152238])
+SAR_median=array([ 37.37562095, -10.55661842])
+Music Delta - Britpop
+SDR_median=array([ -3.64741429, -12.05252624])
+SIR_median=array([-3.4503206 ,  6.17793876])
+SAR_median=array([ 14.55353586, -10.83208775])
+Triviul - Dorothy
+SDR_median=array([-12.24841593,   1.92325357])
+SIR_median=array([5.97012591, 1.88598495])
+SAR_median=array([-10.76683864,  28.0659012 ])
+Clara Berry And Wooldog - Stella
+SDR_median=array([-9.12829136, -8.09125034])
+SIR_median=array([-9.12227152, 17.15196133])
+SAR_median=array([24.00937678, -7.8912557 ])
+Invisible Familiars - Disturbing Wildlife
+SDR_median=array([-25.30238968,   7.93065462])
+SIR_median=array([-8.48668411,  8.04548728])
+SAR_median=array([-15.93630666,  25.01917355])
+Music Delta - Rock
+SDR_median=array([-8.60845702,  0.72488207])
+SIR_median=array([-1.10206095,  1.84761946])
+SAR_median=array([-4.54069605, 10.2466852 ])
+Patrick Talbot - A Reason To Leave
+SDR_median=array([-6.00256425, -2.70313181])
+SIR_median=array([-3.74756557,  1.43144346])
+SAR_median=array([4.49039097, 3.54957575])
+Leaf - Summerghost
+SDR_median=array([-7.88602319, -7.04439373])
+SIR_median=array([-8.43902536,  9.37019999])
+SAR_median=array([39.87037287, -5.93406655])
+BigTroubles - Phantom
+SDR_median=array([-11.27587819, -14.54536124])
+SIR_median=array([-11.27952973,  12.9903026 ])
+SAR_median=array([ 24.08644697, -14.1254984 ])
+AvaLuna - Waterduct
+SDR_median=array([-6.98446768, -9.53779273])
+SIR_median=array([-6.74306413, 13.04916465])
+SAR_median=array([26.29655069, -9.57033628])
+Aimee Norwich - Child
+SDR_median=array([-14.34760597,  -8.99962397])
+SIR_median=array([-13.91954664,  15.36445242])
+SAR_median=array([20.89390362, -8.67112313])
+Auctioneer - Our Future Faces
+SDR_median=array([-15.02548955,   6.76934975])
+SIR_median=array([-2.46828422,  7.53619283])
+SAR_median=array([-9.79632609, 14.86519381])
+Voelund - Comfort Lives In Belief
+SDR_median=array([-22.30557224,   2.61856788])
+SIR_median=array([-11.01077201,   2.80840264])
+SAR_median=array([-10.79425906,  18.33351098])
+Hop Along - Sister Cities
+SDR_median=array([-27.27299422,   5.78294654])
+SIR_median=array([-8.27008484,  5.89086933])
+SAR_median=array([-17.97362207,  22.89525749])
+Music Delta - 80s Rock
+SDR_median=array([ -2.69593947, -12.9295234 ])
+SIR_median=array([-2.69256011,  6.6230562 ])
+SAR_median=array([ 34.02204972, -12.19178535])
+Black Bloc - If You Want Success
+SDR_median=array([-7.26524949, -1.22086931])
+SIR_median=array([-6.95978543, 12.89596054])
+SAR_median=array([12.1402396 , -0.84431434])
+Fergessen - Nos Palpitants
+SDR_median=array([-14.63235221,  -2.80403252])
+SIR_median=array([-4.34870863, -2.14975945])
+SAR_median=array([-8.28371134, 13.61885125])
+Music Delta - Disco
+SDR_median=array([-17.83653945,   2.58782852])
+SIR_median=array([-9.68710105,  3.07496306])
+SAR_median=array([-6.71136637, 14.14896097])
+Swinging Steaks - Lost My Way
+SDR_median=array([ -7.50226871, -12.03849995])
+SIR_median=array([-7.59402141, 14.28163035])
+SAR_median=array([ 26.72366754, -11.69783826])
+Clara Berry And Wooldog - Waltz For My Victims
+SDR_median=array([-37.64595545,   1.80293062])
+SIR_median=array([-36.29165205,  35.99131945])
+SAR_median=array([1.44348021, 3.44954362])
+Actions - South Of The Water
+SDR_median=array([ -8.17013465, -16.1327759 ])
+SIR_median=array([-8.15362622, -0.3171139 ])
+SAR_median=array([ 21.66515576, -13.27933322])
+Snowmine - Curfews
+SDR_median=array([-29.36535822,   9.69331994])
+SIR_median=array([-12.99694927,   9.68929256])
+SAR_median=array([-16.18721006,  37.86367108])
+Clara Berry And Wooldog - Air Traffic
+SDR_median=array([ -6.25792735, -12.20727134])
+SIR_median=array([-6.25776918, 18.32631984])
+SAR_median=array([ 42.53303211, -11.85460816])
+ANiMAL - Rockshow
+SDR_median=array([-10.6852962 ,  -9.56838608])
+SIR_median=array([-10.56321359,   8.58053796])
+SAR_median=array([13.79523791, -8.65217337])
+Celestial Shore - Die For Us
+SDR_median=array([-47.74388975, -13.80055362])
+SIR_median=array([-47.49632706,  46.49578282])
+SAR_median=array([ 15.36021039, -13.02297325])
+Johnny Lokke - Whisper To A Scream
+SDR_median=array([-8.98384593, -1.28200225])
+SIR_median=array([-6.68644492, 11.2423147 ])
+SAR_median=array([ 2.53713247, -0.70267898])
+James May - Dont Let Go
+SDR_median=array([-6.42085539,  0.40510444])
+SIR_median=array([-6.39481891, 21.90054016])
+SAR_median=array([22.32959629,  0.82128771])
+James May - If You Say
+SDR_median=array([-3.12801416, -3.60398879])
+SIR_median=array([-3.15599095, 26.48274198])
+SAR_median=array([26.94741022, -3.5674296 ])
+Young Griffo - Blood To Bone
+SDR_median=array([-17.63025249,   4.91834346])
+SIR_median=array([-8.63038439,  8.03046446])
+SAR_median=array([-7.23150961,  8.92768268])
+ANiMAL - Clinic A
+SDR_median=array([-15.47585302,   3.04744571])
+SIR_median=array([-2.31228697,  4.71504823])
+SAR_median=array([-8.43987296, 10.20078749])
+Strand Of Oaks - Spacestation
+SDR_median=array([-17.47169451, -15.65277294])
+SIR_median=array([-17.51048184,  14.24199841])
+SAR_median=array([ 22.12124915, -15.40666252])
+Chris Durban - Celebrate
+SDR_median=array([-10.5223376 ,  -9.25986168])
+SIR_median=array([-10.1082518 ,   3.81046858])
+SAR_median=array([ 9.67962199, -7.05375589])
+Johnny Lokke - Promises & Lies
+SDR_median=array([-24.10329106,   5.32353674])
+SIR_median=array([-13.87098333,   5.32526234])
+SAR_median=array([-10.53972419,  48.73638489])
+Drumtracks - Ghost Bitch
+SDR_median=array([-20.12908258,   1.4368596 ])
+SIR_median=array([-10.00759712,   1.63218664])
+SAR_median=array([-9.05094846, 19.91083557])
+Titanium - Haunted Age
+SDR_median=array([-14.38736606,   3.6008264 ])
+SIR_median=array([-6.04725352,  6.44288585])
+SAR_median=array([-6.53827785,  7.71604787])
+Actions - Devil's Words
+SDR_median=array([ -1.57125787, -11.82904459])
+SIR_median=array([-1.57671015,  7.58043269])
+SAR_median=array([ 37.49262078, -10.92750645])
+Music Delta - Country2
+SDR_median=array([-2.53799431, -5.86440479])
+SIR_median=array([-2.42800679, 13.17930744])
+SAR_median=array([19.51669407, -5.49090402])
+Helado Negro - Mitad Del Mundo
+SDR_median=array([-14.01794478,  -1.68828753])
+SIR_median=array([-2.25322504, -0.39112627])
+SAR_median=array([-7.02572796, 11.88546332])
+Skelpolu - Human Mistakes
+SDR_median=array([-11.79542224, -10.94789061])
+SIR_median=array([-11.75250392,   8.65294357])
+SAR_median=array([21.75906966, -9.84974167])
+Steven Clark - Bounty
+SDR_median=array([-5.45497678, -9.97283037])
+SIR_median=array([-5.13777817,  8.97424969])
+SAR_median=array([12.0847671, -9.4897442])
+Tim Taler - Stalker
+SDR_median=array([-8.97297696,  0.08376464])
+SIR_median=array([-3.31161107,  2.23062893])
+SAR_median=array([-2.37616288,  5.82042589])
+Music Delta - Hendrix
+SDR_median=array([-13.06282686,   3.27046982])
+SIR_median=array([4.87367495, 4.87377471])
+SAR_median=array([-12.15146122,  22.47268232])
+Bill Chudziak - Children Of No-one
+SDR_median=array([-8.26660895,  0.33281419])
+SIR_median=array([-4.82989882,  4.2297244 ])
+SAR_median=array([0.43761047, 4.29358747])
+The Wrong'Uns - Rothko
+SDR_median=array([-3.96080451, -5.43011609])
+SIR_median=array([-3.69171943,  9.8539682 ])
+SAR_median=array([14.15589469, -4.81982519])
+Matthew Entwistle - Dont You Ever
+SDR_median=array([ -2.7898599 , -11.11817899])
+SIR_median=array([-2.68121631, 22.22311019])
+SAR_median=array([ 22.08471598, -11.06860059])
+Flags - 54
+SDR_median=array([-14.0049282 ,  -0.02459566])
+SIR_median=array([-12.47040335,   4.91918125])
+SAR_median=array([4.48824489, 2.77617702])
+ANiMAL - Easy Tiger
+SDR_median=array([-6.42868351, -6.87833909])
+SIR_median=array([-6.02208007, 12.26983782])
+SAR_median=array([12.51190664, -6.59836217])
+Meaxic - You Listen
+SDR_median=array([-36.32634087,   1.69116006])
+SIR_median=array([-15.63075536,   1.70019162])
+SAR_median=array([-20.46271154,  29.92075575])
+The Scarlet Brand - Les Fleurs Du Mal
+SDR_median=array([-24.06596202,   0.96599055])
+SIR_median=array([-13.63272882,   1.35948834])
+SAR_median=array([-9.1450124 , 13.13795165])
+Music Delta - Grunge
+SDR_median=array([-20.19009834,   4.81764911])
+SIR_median=array([-9.02970536,  5.02906049])
+SAR_median=array([-10.28680257,  19.44152111])
+Triviul - Angelsaint
+SDR_median=array([ -2.89277676, -15.54318652])
+SIR_median=array([-2.72531912,  0.26586798])
+SAR_median=array([ 16.18691083, -12.43781749])
+Traffic Experiment - Sirens
+SDR_median=array([-20.13842456,   3.64387219])
+SIR_median=array([-6.3208404 ,  3.69020651])
+SAR_median=array([-12.77312014,  30.88197829])
+Lushlife - Toynbee Suite
+SDR_median=array([-18.63915017, -12.28027688])
+SIR_median=array([-18.59791029,  32.73808363])
+SAR_median=array([ 23.14420204, -12.23989279])
+North To Alaska - All The Same
+SDR_median=array([-15.44583509, -12.57902684])
+SIR_median=array([-15.43586877,  21.7445069 ])
+SAR_median=array([ 28.03951265, -11.8566676 ])
+Sweet Lights - You Let Me Down
+SDR_median=array([ -1.99873052, -15.88485717])
+SIR_median=array([-2.01460281,  8.32976383])
+SAR_median=array([ 27.94131085, -14.77907401])
+Fergessen - Back From The Start
+SDR_median=array([ -4.90910596, -15.06307861])
+SIR_median=array([-4.89380867, 12.23887732])
+SAR_median=array([ 34.40841259, -14.73341479])
+Spike Mullings - Mike's Sulking
+SDR_median=array([ -4.75318661, -13.24849709])
+SIR_median=array([-4.69456912, 18.01984423])
+SAR_median=array([ 21.58261834, -12.99662218])
+Alexander Ross - Velvet Curtain
+SDR_median=array([ -3.59666627, -14.05602011])
+SIR_median=array([-3.45833438,  5.34933064])
+SAR_median=array([ 21.04467277, -12.34779195])
+Alexander Ross - Goodbye Bolero
+SDR_median=array([-4.83526157, -2.69218198])
+SIR_median=array([-3.37588328,  3.99206857])
+SAR_median=array([ 6.86183164, -0.17523649])
+Music Delta - Reggae
+SDR_median=array([-3.69617267, -2.88628115])
+SIR_median=array([-1.65748618,  8.79636531])
+SAR_median=array([ 5.29130785, -2.27269676])
+Music Delta - Rockabilly
+SDR_median=array([-3.19827579, -2.59986236])
+SIR_median=array([-3.19362228, 13.19219692])
+SAR_median=array([49.3076651 , -2.03336288])
+Wall Of Death - Femme
+SDR_median=array([-64.0071132 ,  34.25854487])
+SIR_median=array([-44.25588917,  42.05253626])
+SAR_median=array([-20.18575981,  37.20063323])
+Faces On Film - Waiting For Ga
+SDR_median=array([ -5.58358155, -17.14400531])
+SIR_median=array([-5.5786793 ,  7.61851657])
+SAR_median=array([ 42.2123316 , -16.32318976])
+The Long Wait - Back Home To Blue
+SDR_median=array([-5.63413694, -6.70930967])
+SIR_median=array([-5.54426296, 11.53309259])
+SAR_median=array([16.55174211, -6.25626556])
+Music Delta - Beatles
+SDR_median=array([ -6.00962518, -11.33712269])
+SIR_median=array([-5.9844561 , 17.88578483])
+SAR_median=array([ 25.28374198, -11.25200471])
+Music Delta - Country1
+SDR_median=array([-13.58362752,   2.12548966])
+SIR_median=array([-0.306584  ,  2.16944949])
+SAR_median=array([-10.594935  ,  28.60742352])
+Hollow Ground - Left Blind
+SDR_median=array([-17.47293927,   1.27309792])
+SIR_median=array([-14.77671271,  18.35620487])
+SAR_median=array([2.01316524, 2.50248125])
+Giselle - Moss
+SDR_median=array([-18.92183486,  13.50932261])
+SIR_median=array([-6.06871324, 15.96450118])
+SAR_median=array([-10.58611823,  17.5767597 ])
+The So So Glos - Emergency
+SDR_median=array([ -5.80039477, -16.12206925])
+SIR_median=array([-5.77027164,  9.56763281])
+SAR_median=array([ 32.29071186, -15.60323462])
+Dark Ride - Burning Bridges
+SDR_median=array([ -8.02241545, -12.53009484])
+SIR_median=array([-7.87427289,  8.40390358])
+SAR_median=array([ 17.53768151, -11.86006797])
+St Vitus - Word Gets Around
+SDR_median=array([-1.9879846 , -5.10825841])
+SIR_median=array([-1.9885714 , 30.26898532])
+SAR_median=array([60.74733505, -5.11222357])
+Jay Menon - Through My Eyes
+SDR_median=array([-5.927709  , -1.37985678])
+SIR_median=array([1.12426197, 0.69432033])
+SAR_median=array([-0.67116287,  8.07654753])
+Buitraker - Revo X
+SDR_median=array([-15.67963492,   6.822488  ])
+SIR_median=array([-9.38641876,  9.17975573])
+SAR_median=array([-4.43626489, 11.08300709])
+M.E.R.C. Music - Knockout
+SDR_median=array([ -3.01984338, -13.69103916])
+SIR_median=array([-2.96108177,  1.25672858])
+SAR_median=array([ 22.70162701, -10.94927617])
+The Sunshine Garcia Band - For I Am The Moon
+SDR_median=array([ -3.71503656, -13.86617034])
+SIR_median=array([-3.70913412,  4.58214677])
+SAR_median=array([ 36.99366005, -12.33304059])
+PR - Oh No
+SDR_median=array([-35.72685454,  17.92579563])
+SIR_median=array([-24.5591052 ,  36.37638665])
+SAR_median=array([-10.75451726,  20.30834822])
+Little Chicago's Finest - My Own
+SDR_median=array([-3.38118972,  7.03172999])
+SIR_median=array([-3.3524171 , 14.66554509])
+SAR_median=array([25.58801986,  7.93390752])
+Signe Jakobsen - What Have You Done To Me
+SDR_median=array([ -1.99368056, -12.93900137])
+SIR_median=array([-2.06760468,  8.84612619])
+SAR_median=array([ 21.38676322, -12.39482356])
+The Mountaineering Club - Mallory
+SDR_median=array([-15.34047586,   4.8260843 ])
+SIR_median=array([-5.94107466,  5.14766579])
+SAR_median=array([-6.70209606, 18.69939065])
+Al James - Schoolboy Facination
+SDR_median=array([-3.29487485, -3.20812691])
+SIR_median=array([0.01191822, 1.41997017])
+SAR_median=array([2.56597432, 0.33634472])
+Speak Softly - Like Horses
+SDR_median=array([-29.57626049,   2.79491093])
+SIR_median=array([-17.11523584,   2.79966517])
+SAR_median=array([-12.03104842,  29.0635087 ])
+Zeno - Signs
+SDR_median=array([-8.4759476 ,  2.46537049])
+SIR_median=array([-2.96635636,  4.7701951 ])
+SAR_median=array([-1.49501766,  7.81687896])
+Hollow Ground - Ill Fate
+SDR_median=array([-8.83156192, -6.0977012 ])
+SIR_median=array([-8.71258098, 12.55645337])
+SAR_median=array([14.18058992, -5.77457743])
+Timboz - Pony
+SDR_median=array([-14.62530412,   0.48444143])
+SIR_median=array([-11.06925276,   9.11756092])
+SAR_median=array([-1.14798324,  2.00787214])
+Forkupines - Semantics
+SDR_median=array([ -7.27604469, -13.84782641])
+SIR_median=array([-7.25097891,  9.50390579])
+SAR_median=array([ 22.81180465, -13.29767969])
+Moosmusic - Big Dummy Shake
+SDR_median=array([-5.94968748, -4.48278357])
+SIR_median=array([-5.73014971, 10.60236279])
+SAR_median=array([15.58175316, -4.09258673])
+Tom McKenzie - Directions
+SDR_median=array([-10.63032357,   5.77502857])
+SIR_median=array([-8.94000315,  9.30704386])
+SAR_median=array([4.41986802, 9.59863371])
+Ben Carrigan - We'll Talk About It All Tonight
+SDR_median=array([-13.37025144,   5.59107008])
+SIR_median=array([-5.08795536,  6.80553492])
+SAR_median=array([-6.1143373 , 11.73806032])
+Secretariat - Borderline
+SDR_median=array([ -4.88797219, -12.04065597])
+SIR_median=array([-4.97629168,  2.096533  ])
+SAR_median=array([23.21705386, -9.66179307])
+AM Contra - Heart Peripheral
+SDR_median=array([-19.97470767,   5.69934853])
+SIR_median=array([-7.4991655 ,  5.72096836])
+SAR_median=array([-12.20118265,  34.58439839])
+Motor Tapes - Shore
+SDR_median=array([ -7.92044876, -12.27310419])
+SIR_median=array([-7.8773367, 15.5465229])
+SAR_median=array([ 23.21876991, -11.92647484])
+Arise - Run Run Run
+SDR_median=array([-8.52769156,  0.46234554])
+SIR_median=array([-8.56091909, 18.09495487])
+SAR_median=array([30.05895354,  0.60641088])
+Skelpolu - Resurrection
+SDR_median=array([ -7.94532966, -13.30496254])
+SIR_median=array([-7.94569858,  3.75206007])
+SAR_median=array([ 36.66544423, -11.45320522])
+Louis Cressy Band - Good Time
+SDR_median=array([-16.74412119,   2.56921083])
+SIR_median=array([-8.86238168,  2.96120581])
+SAR_median=array([-5.97338288, 15.5731283 ])
+Punkdisco - Oral Hygiene
+SDR_median=array([-11.96111822, -13.17549172])
+SIR_median=array([-11.96251811,   7.53135875])
+SAR_median=array([ 39.58232342, -12.50903437])
+We Fell From The Sky - Not You
+SDR_median=array([-21.49243659,   6.80632922])
+SIR_median=array([-9.93076333,  7.55050538])
+SAR_median=array([-10.63941285,  15.61771241])
+Raft Monk - Tiring
+SDR_median=array([-11.62442848,   7.34817962])
+SIR_median=array([3.38486103, 7.36437394])
+SAR_median=array([-10.0261106 ,  38.20403815])
+BKS - Too Much
+SDR_median=array([-4.16986834, -8.39596389])
+SIR_median=array([-3.82832254,  0.69137538])
+SAR_median=array([11.09017984, -4.74883222])
+Detsky Sad - Walkie Talkie
+SDR_median=array([-10.01740924,   1.38462355])
+SIR_median=array([-3.69865273,  2.73607666])
+SAR_median=array([-2.96748188,  9.58185785])
+Girls Under Glass - We Feel Alright
+SDR_median=array([-12.43946079,   1.13993748])
+SIR_median=array([-7.99008549,  8.04631598])
+SAR_median=array([-2.02664506,  3.0981064 ])
+The Long Wait - Dark Horses
+SDR_median=array([-10.78608401,   0.98235061])
+SIR_median=array([-5.15482917,  4.62798704])
+SAR_median=array([-2.46847653,  4.52736268])
+BKS - Bulldozer
+SDR_median=array([-6.91397264, 15.00486371])
+SIR_median=array([ 4.55372395, 15.02802237])
+SAR_median=array([-5.03713615, 51.57166271])
+The Easton Ellises (Baumi) - SDRNR
+SDR_median=array([-22.55269229,   5.10466348])
+SIR_median=array([-10.94408489,   5.61155128])
+SAR_median=array([-11.72791245,  43.83592375])
+Mu - Too Bright
+SDR_median=array([-8.8201113 ,  5.09955022])
+SIR_median=array([-4.16541151,  5.98051355])
+SAR_median=array([-1.49741957, 13.1494602 ])
+Nerve 9 - Pray For The Rain
+SDR_median=array([-15.40728305,   2.87097917])
+SIR_median=array([-10.47821844,   3.4314746 ])
+SAR_median=array([-3.29963755, 15.59395753])
+PR - Happy Daze
+SDR_median=array([-43.74547598,  34.75095168])
+SIR_median=array([-29.69858039,  46.99470791])
+SAR_median=array([-14.26048819,  35.84962237])
+Carlos Gonzalez - A Place For Us
+SDR_median=array([-5.38535281, -3.31159461])
+SIR_median=array([-0.6368239,  2.4883094])
+SAR_median=array([-0.70977064,  0.68051296])
+Sambasevam Shanmugam - Kaathaadi
+SDR_median=array([ -1.23692739, -10.56399644])
+SIR_median=array([-1.27886925,  3.01479132])
+SAR_median=array([20.44584055, -8.05641411])
+The Doppler Shift - Atrophy
+SDR_median=array([-13.88071622,   7.76703711])
+SIR_median=array([-1.66754633,  8.0364562 ])
+SAR_median=array([-8.82818953, 22.091626  ])
+The Easton Ellises - Falcon 69
+SDR_median=array([-13.37942202,   5.33340706])
+SIR_median=array([-0.48943848,  5.90938127])
+SAR_median=array([-9.78859216, 15.82177799])
+Side Effects Project - Sing With Me
+SDR_median=array([-1.77615412, -8.39304896])
+SIR_median=array([-1.75370944,  2.83817086])
+SAR_median=array([26.96417884, -5.28397429])
+Lyndsey Ollard - Catching Up
+SDR_median=array([-14.28880427,  -0.15326736])
+SIR_median=array([-3.52364567,  1.41115681])
+SAR_median=array([-8.67694237,  8.65083673])
+Georgia Wonder - Siren
+SDR_median=array([-22.83671461,   4.61997921])
+SIR_median=array([-11.75452584,   4.9378992 ])
+SAR_median=array([-9.96983235, 18.91688957])
+Enda Reilly - Cur An Long Ag Seol
+SDR_median=array([-3.64786405, -9.5181612 ])
+SIR_median=array([-3.63892343, -1.79596076])
+SAR_median=array([36.65290101, -4.24194289])
+Bobby Nobody - Stitch Up
+SDR_median=array([-4.78142765, -8.66025335])
+SIR_median=array([-4.64253457,  2.63586096])
+SAR_median=array([14.99479872, -6.18747108])
+Juliet's Rescue - Heartbeats
+SDR_median=array([-11.1691534 ,   6.03419207])
+SIR_median=array([-2.22799835,  7.93808634])
+SAR_median=array([-6.38289295, 10.84579848])
+Angels In Amplifiers - I'm Alright
+SDR_median=array([-4.03960837,  0.81801929])
+SIR_median=array([1.41730487, 2.83799863])
+SAR_median=array([-0.35483059,  7.69481331])
+Speak Softly - Broken Man
+SDR_median=array([-20.5666801 ,   7.35734912])
+SIR_median=array([-8.18833853,  8.5503326 ])
+SAR_median=array([-11.58325151,  16.598235  ])
+Triviul feat. The Fiend - Widow
+SDR_median=array([ -1.83761312, -12.12637615])
+SIR_median=array([-1.81240356,  4.32500867])
+SAR_median=array([ 20.88264318, -10.55168677])
+Cristina Vane - So Easy
+SDR_median=array([ -3.86284112, -13.35039574])
+SIR_median=array([-3.88838999, -5.80353691])
+SAR_median=array([24.97652879, -7.08375071])
+Secretariat - Over The Top
+SDR_median=array([ -5.81568636, -11.44496649])
+SIR_median=array([-5.77015106, 12.28410659])
+SAR_median=array([ 26.60931715, -11.19515244])
+James Elder & Mark M Thompson - The English Actor
+SDR_median=array([-9.57628781, -0.87815116])
+SIR_median=array([-4.66372623,  3.30921482])
+SAR_median=array([-1.93013305,  2.42904647])
